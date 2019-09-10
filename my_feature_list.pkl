@@ -1,0 +1,16 @@
+(lp0
+S'poi'
+p1
+aS'salary'
+p2
+aS'to_messages'
+p3
+aS'deferral_payments'
+p4
+aS'total_payments'
+p5
+aS'exercised_stock_options'
+p6
+aS'bonus'
+p7
+a.
